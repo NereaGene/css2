@@ -1,0 +1,37 @@
+.enlace {
+            border: 0px;
+            padding: 0px;
+            background-color: transparent;
+            color: blue;
+            border-bottom: 1px solid blue;}
+
+        form.elegante input {
+            padding: .2em;
+        }
+        label {
+            display: block;
+            margin: .5em 0 0 0;
+        }
+        .btn {
+            display: block;
+            margin: 1em 0;}
+        div {
+            margin: .4em 0;
+        }
+        div label {
+            width: 25%;
+            float: left;
+        }
+        form fieldset {
+            float: left;
+            width: 43%;
+        }
+        form{
+            clear: both;
+            overflow: hidden;
+        }
+        input:focus {
+            border: 2px solid #000;
+            background: #F3F3F3;
+        }
+  
